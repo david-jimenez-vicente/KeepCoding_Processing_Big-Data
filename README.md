@@ -9,3 +9,7 @@
   
 ## *Repository content*
 · This README.md, that contains the exercise statement and its resolution.
+· "world-happiness-report.csv" and "world-happiness-report-2021.csv" files, which contain the data for the project.
+· "WithPython.ipynb": Jupyter Notebook with a Python solution.
+· "WithPySpark.ipynb": Jupyter Notebook with a Spark solution on PySpark API.
+
