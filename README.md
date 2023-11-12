@@ -12,4 +12,9 @@
 · "world-happiness-report.csv" and "world-happiness-report-2021.csv" files, which contain the data for the project.  
 · "WithPython.ipynb": Jupyter Notebook with a Python solution.  
 · "WithPySpark.ipynb": Jupyter Notebook with a Spark solution on PySpark API.  
-
+---
+## *Enunciado del ejercicio*
+· Este es el proyecto final de la asignatura de "Procesamiento de Big-Data". Se pedía resolver unas preguntas de análisis de datos, incluyendo ETL, importación y manipulación de datos, EDA, análisis y respuesta a preguntas concretas.  
+  
+## *Exercise statement*  
+· This is the final project of the "Big-Data Processing" subject. It was asked to solve some data analysis questions, including ETL, data import and manipulation, EDA, analysis and answering specific questions.
