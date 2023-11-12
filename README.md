@@ -19,7 +19,7 @@
 · Además, se pide que escribamos un artículo en Medium describiendo los retos de la asignatura y el proyecto. Se adjunta el link al final de este README.MD
   
 ## Exercise statement  
-· This is the final project of the "Big-Data Processing" subject. It was asked to solve some data analysis questions, including ETL, data import and manipulation, EDA, analysis and answering specific questions.
+· This is the final project of the "Big-Data Processing" subject. It was asked to solve some data analysis questions, including ETL, data import and manipulation, EDA, analysis and answering specific questions.  
 · Additionally, we're asked to write ans article for MEDIUM, relating the subject and project's challenges. The link to the article is attached at the end of this README.MD  
   
 ---  
