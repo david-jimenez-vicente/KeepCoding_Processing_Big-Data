@@ -7,5 +7,5 @@
 · "WithPython.ipynb": Jupyter Notebook con la resolución del ejercicio usando Python.  
 · "WithPySpark.ipynb": Jupyter Notebook con la resolución del ejercicio usando Spark con la API PySpark.  
   
-## *Repository content*  
----  
+## *Repository content*
+· This README.md, that contains the exercise statement and its resolution.
